@@ -24,3 +24,4 @@ fn
     .then(fn.agruparElementos)
     .then(fn.orderPorAtributoNumerico('qtde', 'desc'))
     .then(console.log)
+
